@@ -1,0 +1,15 @@
+Flask
+Flask-CORS
+Werkzeug
+torch
+torchvision
+transformers
+numpy
+opencv-python
+Pillow
+scikit-learn
+pandas
+python-dotenv
+requests
+tqdm
+
